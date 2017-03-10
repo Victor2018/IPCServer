@@ -1,6 +1,4 @@
 # IPCServer
-跨进程通信 server
-
 
 ## License
 
