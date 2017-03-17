@@ -1,5 +1,10 @@
 # IPCServer
 
+# 关注开发者：
+- 邮箱： victor423099@gmail.com
+- 新浪微博
+- ![image](https://github.com/Victor2018/IPCServer/raw/master/SrceenShot/sina_weibo.jpg)
+
 ## License
 
 Copyright (c) 2017 Victor
